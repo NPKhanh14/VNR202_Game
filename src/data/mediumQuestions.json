@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "difficulty": "medium",
+    "question": "Nghệ thuật lãnh đạo trong tư tưởng này là sự kết hợp của hai yếu tố nào?",
+    "answers": [
+      "Sức mạnh quân sự và tài chính",
+      "Bản lĩnh kiên định mục tiêu và sách lược linh hoạt mềm dẻo",
+      "Đàm phán hòa bình và nhượng bộ vô điều kiện",
+      "Đấu tranh vũ trang và biểu tình"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "difficulty": "medium",
+    "question": "Trong các yếu tố dưới đây, đâu KHÔNG nằm trong danh sách \"Cái bất biến\"?",
+    "answers": [
+      "Độc lập dân tộc",
+      "Chủ quyền quốc gia",
+      "Ký kết hiệp định",
+      "Quyền lợi của nhân dân"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 3,
+    "difficulty": "medium",
+    "question": "Sự \"vạn biến\" là để ứng phó với những vấn đề gì?",
+    "answers": [
+      "Tình hình quốc tế, âm mưu kẻ thù và diễn biến chính trị",
+      "Sự phát triển của kinh tế",
+      "Những đòi hỏi của nhân dân",
+      "Các mục tiêu chiến lược của Đảng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 4,
+    "difficulty": "medium",
+    "question": "Nước ta đối mặt với khó khăn kinh tế nào ngay sau Cách mạng tháng Tám?",
+    "answers": [
+      "Không có công nghiệp nặng",
+      "Nạn đói kéo dài, ngân khố gần như trống rỗng, sản xuất đình trệ",
+      "Bị cấm vận kinh tế toàn cầu",
+      "Lạm phát cao"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "difficulty": "medium",
+    "question": "Nguyên tắc tuyệt đối không thể nhân nhượng trong tư tưởng của Bác là gì?",
+    "answers": [
+      "Vấn đề tài chính",
+      "Độc lập dân tộc",
+      "Hệ thống chính trị",
+      "Cơ cấu tổ chức"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 6,
+    "difficulty": "medium",
+    "question": "Mục tiêu chiến lược của việc ký Hiệp định Sơ bộ (6/3/1946) liên quan đến quân Tưởng là gì?",
+    "answers": [
+      "Mời quân Tưởng vào miền Nam",
+      "Nhờ quân Tưởng đánh Pháp",
+      "Đẩy quân Tưởng ra khỏi miền Bắc",
+      "Đầu hàng quân Tưởng"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "difficulty": "medium",
+    "question": "Việc ký Hiệp định Sơ bộ đã đem lại kết quả gì về mặt ngoại giao?",
+    "answers": [
+      "Pháp bồi thường chiến tranh",
+      "Pháp rút toàn bộ quân đội về nước",
+      "Pháp công nhận Việt Nam là một quốc gia tự do trong Liên hiệp Pháp",
+      "Pháp từ bỏ quyền lợi ở Đông Dương"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "difficulty": "medium",
+    "question": "Việc ký Tạm ước ngày 14/9/1946 nhằm mục đích chính là gì?",
+    "answers": [
+      "Bắt đầu chiến tranh",
+      "Kéo dài thời gian hòa bình, hạn chế nguy cơ chiến tranh ngay lập tức",
+      "Giao nộp vũ khí",
+      "Đẩy quân Pháp ra khỏi Việt Nam"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "difficulty": "medium",
+    "question": "Khi khả năng hòa bình không còn, Đảng và Bác Hồ đã quyết định làm gì?",
+    "answers": [
+      "Ký thêm một bản Tạm ước nữa",
+      "Kêu gọi toàn quốc kháng chiến",
+      "Nhượng bộ vô điều kiện",
+      "Chờ đợi viện trợ quốc tế"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 10,
+    "difficulty": "medium",
+    "question": "Giá trị về mặt quân sự mà tư tưởng này mang lại trong năm 1945-1946 là gì?",
+    "answers": [
+      "Tấn công phủ đầu mọi kẻ thù",
+      "Tránh chiến tranh khi chưa đủ điều kiện, tranh thủ thời gian xây dựng lực lượng",
+      "Giảm ngân sách quốc phòng",
+      "Kêu gọi đồng minh hỗ trợ"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 11,
+    "difficulty": "medium",
+    "question": "Bài học kinh nghiệm khuyên chúng ta nên ưu tiên giải quyết vấn đề bằng phương pháp nào?",
+    "answers": [
+      "Dùng biện pháp mạnh",
+      "Đối thoại khi có thể",
+      "Nhượng bộ vô điều kiện",
+      "Dựa vào nước ngoài"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "difficulty": "medium",
+    "question": "Đối với Việt Nam trong thời đại ngày nay, tư tưởng này định hướng điều gì trong quan hệ quốc tế?",
+    "answers": [
+      "Đóng cửa biên giới để tự cung tự cấp",
+      "Chủ động hội nhập quốc tế, giữ môi trường hòa bình để phát triển",
+      "Chỉ hợp tác với các nước láng giềng",
+      "Không tham gia các tổ chức đa phương"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 13,
+    "difficulty": "medium",
+    "question": "Theo định hướng cho sinh viên, sự linh hoạt (vạn biến) thể hiện qua việc gì?",
+    "answers": [
+      "Linh hoạt trong cách giải quyết vấn đề và thích nghi với sự thay đổi của công nghệ, xã hội",
+      "Dễ dàng từ bỏ mục tiêu khi khó khăn",
+      "Học nhiều ngành cùng lúc",
+      "Chỉ học các kỹ năng mềm"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 14,
+    "difficulty": "medium",
+    "question": "Sự \"nhượng bộ\" trong phương pháp đấu tranh của Đảng ta phải mang tính chất gì?",
+    "answers": [
+      "Nhượng bộ vô hạn",
+      "Nhượng bộ có nguyên tắc",
+      "Thỏa hiệp mọi yêu cầu",
+      "Chỉ nhượng bộ về quân sự"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 15,
+    "difficulty": "medium",
+    "question": "Đặc điểm của \"Sách lược linh hoạt\" là gì?",
+    "answers": [
+      "Giữ nguyên một phương pháp duy nhất",
+      "Phương pháp đấu tranh, đàm phán có thể thay đổi theo từng hoàn cảnh",
+      "Độc lập dân tộc không thể thay đổi",
+      "Cố định trong suốt thời gian cách mạng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "difficulty": "medium",
+    "question": "Để \"hòa với quân Tưởng\", chính quyền Việt Nam đã phải chấp nhận điều gì?",
+    "answers": [
+      "Nhượng lại quyền quản lý toàn quốc",
+      "Chấp nhận một số nhượng bộ về kinh tế và chính trị",
+      "Giải tán quân đội",
+      "Trả tiền bồi thường"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "difficulty": "medium",
+    "question": "Đặc điểm \"không giáo điều, không cứng nhắc\" là biểu hiện của giá trị nào trong tư tưởng này?",
+    "answers": [
+      "Giá trị về chính trị",
+      "Giá trị về quân sự",
+      "Giá trị về quản trị quốc gia",
+      "Giá trị về ngoại giao"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 18,
+    "difficulty": "medium",
+    "question": "Bài học kinh nghiệm chỉ ra rằng, ta chỉ sử dụng biện pháp mạnh (như phát động kháng chiến) khi nào?",
+    "answers": [
+      "Khi có lực lượng quân sự mạnh nhất",
+      "Khi kẻ thù sơ hở",
+      "Khi không còn lựa chọn khác",
+      "Khi bắt đầu xảy ra xung đột"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 19,
+    "difficulty": "medium",
+    "question": "Đâu là khó khăn về mặt chính trị của nước ta ngay sau khi giành độc lập năm 1945?",
+    "answers": [
+      "Chính quyền cách mạng còn non trẻ, chưa được nhiều nước công nhận, bộ máy chưa hoàn thiện",
+      "Thiếu cán bộ kỹ thuật",
+      "Dân số quá đông",
+      "Xung đột tôn giáo"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 20,
+    "difficulty": "medium",
+    "question": "Lựa chọn \"Đẩy quân Tưởng ra khỏi miền Bắc\" khi ký HĐ Sơ bộ mang ý nghĩa chiến lược gì?",
+    "answers": [
+      "Tránh phải đối đầu đồng thời với nhiều lực lượng",
+      "Tiêu diệt quân Pháp",
+      "Phát động chiến tranh toàn diện",
+      "Nhường miền Bắc cho Pháp cai trị vĩnh viễn"
+    ],
+    "correctAnswer": 0
+  }
+]

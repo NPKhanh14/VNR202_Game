@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Tư tưởng \"Dĩ bất biến, ứng vạn biến\" là một nghệ thuật lãnh đạo gắn liền với nhân vật lịch sử nào?",
+    "answers": [
+      "Võ Nguyên Giáp",
+      "Hồ Chí Minh",
+      "Huỳnh Thúc Kháng",
+      "Trường Chinh"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Phương châm này được ứng dụng đặc biệt hiệu quả vào giai đoạn lịch sử nào?",
+    "answers": [
+      "1930 - 1945",
+      "1945 - 1946",
+      "1954 - 1975",
+      "1975 - 1986"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Cụm từ \"Dĩ bất biến, ứng vạn biến\" có nguồn gốc từ đâu?",
+    "answers": [
+      "Triết học phương Tây",
+      "Triết học Mác - Lênin",
+      "Triết học phương Đông",
+      "Khoa học quân sự"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Theo nghĩa từng từ, chữ \"Dĩ\" có nghĩa là gì?",
+    "answers": [
+      "Thay đổi",
+      "Lấy",
+      "Ứng phó",
+      "Trở thành"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "\"Bất biến\" được định nghĩa như thế nào trong tư tưởng này?",
+    "answers": [
+      "Sự biến hóa liên tục",
+      "Hoàn cảnh khó khăn",
+      "Điều không thay đổi",
+      "Phương pháp linh hoạt"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "\"Vạn biến\" mang ý nghĩa là gì?",
+    "answers": [
+      "Giữ nguyên trạng thái",
+      "Một sự kiện duy nhất",
+      "Muôn vàn sự thay đổi",
+      "Kẻ thù đông đảo"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Câu nào tóm gọn cốt lõi của phương châm này?",
+    "answers": [
+      "Lấy sức mạnh quân sự để đàn áp mọi sự thay đổi.",
+      "Lấy cái thay đổi để ứng phó với cái không thay đổi.",
+      "Lấy cái không thay đổi để ứng phó với mọi sự thay đổi.",
+      "Lấy hòa bình để giải quyết mọi cuộc chiến."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Tình thế của nước ta sau Cách mạng tháng Tám năm 1945 được ví với hình ảnh nào?",
+    "answers": [
+      "Vững như bàn thạch",
+      "Ngàn cân treo sợi tóc",
+      "Trứng để đầu gậy",
+      "Diều gặp gió"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Đâu là một trong những khó khăn về mặt xã hội của nước ta vào năm 1945?",
+    "answers": [
+      "Hơn 90% dân số mù chữ",
+      "Hơn 50% dân số mù chữ",
+      "Quân xâm lược tiến vào",
+      "Ngân khố trống rỗng"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Lực lượng nào đã kéo vào miền Bắc nước ta ngay sau năm 1945?",
+    "answers": [
+      "Quân Anh",
+      "Quân Mỹ",
+      "Quân Tưởng Giới Thạch",
+      "Quân Nhật"
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Lực lượng nào đã tiến vào miền Nam nước ta sau năm 1945?",
+    "answers": [
+      "Thực dân Pháp",
+      "Quân Anh",
+      "Quân Tưởng",
+      "Quân Nhật"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Tháng 5/1946, Chủ tịch Hồ Chí Minh đã giao quyền điều hành Chính phủ cho ai trước khi sang Pháp đàm phán?",
+    "answers": [
+      "Phạm Văn Đồng",
+      "Võ Nguyên Giáp",
+      "Trường Chinh",
+      "Huỳnh Thúc Kháng"
+    ],
+    "correctAnswer": 3
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Lời căn dặn ngắn gọn của Bác gửi người được giao quyền điều hành là gì?",
+    "answers": [
+      "Không được nhân nhượng.",
+      "Phải bảo vệ thủ đô.",
+      "Dĩ bất biến, ứng vạn biến.",
+      "Toàn quốc kháng chiến."
+    ],
+    "correctAnswer": 2
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Yếu tố nào sau đây là \"Cái bất biến\" đối với Hồ Chí Minh?",
+    "answers": [
+      "Độc lập dân tộc",
+      "Thay đổi chiến lược",
+      "Nhượng bộ kinh tế",
+      "Diễn biến chính trị"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Quyết định ký Hiệp định Sơ bộ diễn ra vào ngày tháng năm nào?",
+    "answers": [
+      "2/9/1945",
+      "6/3/1946",
+      "14/9/1946",
+      "19/12/1946"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Tạm ước được ký kết vào thời gian nào?",
+    "answers": [
+      "6/3/1946",
+      "14/9/1946",
+      "19/12/1946",
+      "2/9/1945"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Biểu hiện nào sau đây thuộc về \"sách lược linh hoạt\" (vạn biến)?",
+    "answers": [
+      "Chủ quyền quốc gia",
+      "Phương pháp đàm phán",
+      "Quyền lợi nhân dân",
+      "Thành quả cách mạng"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Bài học đúc kết từ tư tưởng này nhắc nhở chúng ta phải đặt điều gì lên trên hết?",
+    "answers": [
+      "Lợi ích quốc gia và nhân dân",
+      "Sức mạnh quân sự",
+      "Nguồn lực kinh tế",
+      "Mối quan hệ quốc tế"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Tư tưởng này khuyên sinh viên ngày nay cần kiên định điều gì?",
+    "answers": [
+      "Kiên định một phương pháp học duy nhất",
+      "Mục tiêu học tập và phát triển bản thân",
+      "Không bao giờ thay đổi định hướng nghề nghiệp",
+      "Làm việc một mình"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Việc \"Hòa với quân Tưởng\" ở miền Bắc nhằm mục tiêu gì?",
+    "answers": [
+      "Tránh xung đột quân sự",
+      "Nhận vũ khí viện trợ",
+      "Tiến công quân Pháp",
+      "Thành lập chính quyền mới"
+    ],
+    "correctAnswer": 0
+  }
+]
