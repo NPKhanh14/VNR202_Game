@@ -5,7 +5,7 @@ import { CHARACTERS } from './characters.js';
 import { createGame } from './gameEngine.js';
 import './SetupRoom.css';
 
-const MAX_PLAYERS = 5;
+const MAX_PLAYERS = 7;
 const MIN_PLAYERS = 2;
 
 export default function SetupRoom() {
@@ -73,9 +73,9 @@ export default function SetupRoom() {
       <div className="setup-container">
         {/* Header */}
         <div className="setup-header">
-          <div className="setup-logo">🎲</div>
-          <h1>Kiến Tạo Pháp Quyền</h1>
-          <p className="setup-subtitle">Hành trình khám phá vai trò lãnh đạo của Đảng trong xây dựng Nhà nước pháp quyền XHCN thời kỳ Đổi Mới.</p>
+          <div className="setup-logo">✦</div>
+          <h1>TÂM SÁNG ĐƯỜNG VINH</h1>
+          <p className="setup-subtitle">Hành trình rèn luyện và tu dưỡng đạo đức cách mạng theo Tư tưởng Hồ Chí Minh.</p>
         </div>
 
         <div className="setup-card">
@@ -103,7 +103,7 @@ export default function SetupRoom() {
               Số Người Chơi
             </label>
             <div className="player-count-selector">
-              {[2, 3, 4, 5].map(n => (
+              {[2, 3, 4, 5, 6, 7].map(n => (
                 <button
                   key={n}
                   className={`count-btn ${playerCount === n ? 'active' : ''}`}
@@ -183,10 +183,10 @@ export default function SetupRoom() {
         <div className="setup-guide">
           <h3>📖 Hướng Dẫn Nhanh</h3>
           <ul>
-            <li>🎲 Mỗi lượt: lắc xúc xắc → trả lời câu hỏi → di chuyển</li>
-            <li>⭐ Ô đặc biệt: chuỗi 3 câu hỏi → nhận/chọn phần thưởng</li>
-            <li>🪤 Bẫy: có thể đặt bẫy để cản người khác</li>
-            <li>🏆 Người về đích đầu tiên sẽ xếp hạng 1</li>
+            <li data-icon="🎲">Mỗi lượt: lắc xúc xắc → trả lời câu hỏi → di chuyển</li>
+            <li data-icon="⭐">Ô đặc biệt: chuỗi 3 câu hỏi → nhận/chọn phần thưởng</li>
+            <li data-icon="🪤">Bẫy: có thể đặt bẫy để cản người khác</li>
+            <li data-icon="🏆">Người về đích đầu tiên sẽ xếp hạng 1</li>
           </ul>
         </div>
       </div>

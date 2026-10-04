@@ -41,7 +41,7 @@
   left: 0;
   right: 0;
   height: 9px;
-  background: #e02424;
+  background: linear-gradient(90deg, #4A0E17, #D4AF37);
 }
 
 .qm-question-head {
@@ -59,9 +59,9 @@
   align-items: center;
   justify-content: center;
   border-radius: 20px;
-  background: #feecec;
-  color: #e02424;
-  border: 2px solid transparent;
+  background: rgba(212, 175, 55, 0.15);
+  color: #4A0E17;
+  border: 2px solid rgba(212, 175, 55, 0.6);
   font-size: 30px;
   font-weight: 800;
   line-height: 1;
@@ -136,7 +136,7 @@
   padding: 11px 18px;
   border: 0;
   border-radius: 6px;
-  background: #e02424;
+  background: linear-gradient(135deg, #4A0E17, #D4AF37);
   color: white;
   cursor: pointer;
   font-size: 15px;
@@ -144,7 +144,7 @@
 }
 
 .qm-confirm-btn:hover:not(:disabled) {
-  background: #c91f1f;
+  background: linear-gradient(135deg, #7A1F28, #D4AF37);
 }
 
 .qm-confirm-btn:disabled {
@@ -222,12 +222,12 @@
   padding: 28px 34px 30px;
   overflow: hidden;
   color: #f8f5ff;
-  border: 1px solid rgba(218, 190, 255, 0.5);
+  border: 1px solid rgba(212, 175, 55, 0.52);
   background:
-    radial-gradient(circle at 50% 0%, rgba(221, 199, 255, 0.28), transparent 32%),
-    radial-gradient(circle at 15% 82%, rgba(56, 189, 248, 0.2), transparent 34%),
-    radial-gradient(circle at 86% 74%, rgba(245, 158, 11, 0.18), transparent 32%),
-    linear-gradient(145deg, rgba(30, 24, 54, 0.98), rgba(15, 21, 36, 0.98) 52%, rgba(41, 20, 55, 0.98));
+    radial-gradient(circle at 50% 0%, rgba(212, 175, 55, 0.18), transparent 32%),
+    radial-gradient(circle at 15% 82%, rgba(74, 14, 23, 0.4), transparent 34%),
+    radial-gradient(circle at 86% 74%, rgba(212, 175, 55, 0.12), transparent 32%),
+    linear-gradient(145deg, rgba(30, 13, 19, 0.98), rgba(18, 7, 11, 0.98) 52%, rgba(40, 17, 22, 0.98));
   box-shadow: 0 26px 80px rgba(0, 0, 0, 0.55), inset 0 1px 0 rgba(255, 255, 255, 0.12);
 }
 
@@ -332,14 +332,14 @@
   min-width: 168px;
   min-height: 44px;
   padding: 10px 18px;
-  border: 1px solid rgba(253, 230, 138, 0.72);
+  border: 1px solid rgba(212, 175, 55, 0.8);
   border-radius: 6px;
-  background: linear-gradient(135deg, #8a5cf6 0%, #d1a85c 100%);
+  background: linear-gradient(135deg, #4A0E17 0%, #D4AF37 100%);
   color: #fffaf0;
   font-weight: 900;
   cursor: pointer;
   letter-spacing: 0.03em;
-  box-shadow: 0 12px 28px rgba(138, 92, 246, 0.28), inset 0 1px 0 rgba(255, 255, 255, 0.28);
+  box-shadow: 0 12px 28px rgba(212, 175, 55, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.28);
 }
 
 .qm-shuffle-btn:disabled {

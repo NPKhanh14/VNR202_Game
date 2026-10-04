@@ -229,14 +229,24 @@ const getQuestionKey = (q, difficulty) => {
 
 export const pickQuestion = (difficulty, usedQuestionKeys = []) => {
   const pool = QUESTIONS_BY_DIFFICULTY[difficulty] || [];
+  if (!pool.length) return null;
+
   const usedSet = new Set(usedQuestionKeys);
   const unused = pool.filter(q => !usedSet.has(getQuestionKey(q, difficulty)));
-  if (!unused.length) return null;
+  if (!unused.length) return pool[Math.floor(Math.random() * pool.length)];
+
   return unused[Math.floor(Math.random() * unused.length)];
 };
 
 export const prepareQuestion = (gameState, difficulty, meta = {}) => {
   const state = cloneState(gameState);
+  const pool = QUESTIONS_BY_DIFFICULTY[difficulty] || [];
+  const difficultyUsedKeys = state.usedQuestionKeys.filter(key => String(key).startsWith(`${difficulty}:`));
+
+  if (pool.length && difficultyUsedKeys.length >= pool.length) {
+    state.usedQuestionKeys = state.usedQuestionKeys.filter(key => !String(key).startsWith(`${difficulty}:`));
+  }
+
   const q = pickQuestion(difficulty, state.usedQuestionKeys);
   if (!q) return { state, question: null };
 
